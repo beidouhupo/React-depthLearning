@@ -27,3 +27,5 @@ react源码简析及相关项目
 
 13. React-Redux
 
+14. Redux原理之create-store combine-reducers provider connect
+
