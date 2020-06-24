@@ -35,4 +35,7 @@ react源码简析及相关项目
 
 17. CRM
 
+小项目: easy-crm
+        -> yarn install
+
 
